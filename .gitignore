@@ -1,0 +1,8 @@
+# Build artifacts & OS files
+build/
+*.bin
+*.elf
+*.map
+.DS_Store
+Thumbs.db
+.vscode/
