@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" width="1000" height="28" role="img" aria-label="Crimson divider">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E11D48" stop-opacity="0"/>
+      <stop offset="42%" stop-color="#9F1239" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#FB7185" stop-opacity="1"/>
+      <stop offset="58%" stop-color="#9F1239" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#E11D48" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="20" y1="14" x2="980" y2="14" stroke="url(#divGrad)" stroke-width="1.5"/>
+  <polygon points="500,5 509,14 500,23 491,14" fill="#18080F" stroke="#E11D48" stroke-width="1.5"/>
+  <circle cx="500" cy="14" r="2.5" fill="#FDA4AF"/>
+  <circle cx="468" cy="14" r="2" fill="#9F1239"/>
+  <circle cx="532" cy="14" r="2" fill="#9F1239"/>
+</svg>
